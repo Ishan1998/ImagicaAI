@@ -18,7 +18,6 @@ Key Features:
 # Links: 
 <b>Imagica AI: [Live Demo](https://imagicaai.netlify.app/)
 
-# Screenshots
 
 # Imagica AI UI
 ![Screenshot](Screenshots/UI1.png)
