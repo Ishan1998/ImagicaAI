@@ -1,6 +1,6 @@
 # <i>
 # Imagica AI
-# Description
+# Description:
 <i>Create stunning images for free, with no logins or subscriptions required.
 
 A simple and powerful AI image generation tool powered by [insert AI model/tech here] that allows you to generate high-quality images directly from text prompts. This tool is completely free to use and open-source, designed to make AI-driven creativity accessible to everyone.
@@ -19,7 +19,7 @@ Key Features:
 <b>Imagica AI: [Live Demo](https://imagicaai.netlify.app/)
 
 
-# Screenshots
+# Screenshots:
 ![Screenshot](Screenshots/UI1.png)
 
 ![Screenshot](Screenshots/UI2.png)
